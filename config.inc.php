@@ -36,7 +36,7 @@ Typecho_Common::init();
 /** 定义数据库参数 */
 $db = new Typecho_Db('Pdo_Mysql', 'typecho_');
 $db->addServer(array (
-  'host' => 'Queenie.db.elephantsql.com ',
+  'host' => 'Queenie.db.elephantsql.com',
   'user' => 'droqbdnq',
   'password' => 'Tjdb0s6sW4n3DhwGGboxll4nuDNWk_Rc',
   'charset' => 'utf8mb4',
